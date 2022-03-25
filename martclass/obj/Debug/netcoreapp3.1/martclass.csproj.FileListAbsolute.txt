@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.exe
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.dll
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\bin\Debug\netcoreapp3.1\martclass.pdb
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.dll
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.pdb
+C:\Users\user\Downloads\PortableGit\BP202\martclass\martclass\obj\Debug\netcoreapp3.1\martclass.genruntimeconfig.cache
